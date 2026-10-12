@@ -37,8 +37,10 @@ Actions y alojamiento con HTTPS.
 
 ## Autor
 
-Diseñada y desarrollada por **Carlos** ([@bblanncooo](https://github.com/bblanncooo)), creador de
+Diseñada y desarrollada por **Carlos Melero** ([@bblanncooo](https://github.com/bblanncooo)), creador de
 [Blanco AI](https://blancoai.app).
+
+📧 Contacto: [jcmelero74@gmail.com](mailto:jcmelero74@gmail.com)
 
 ---
 
